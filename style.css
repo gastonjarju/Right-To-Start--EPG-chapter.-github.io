@@ -1,0 +1,175 @@
+*{
+  margin:1px;
+  padding:1px;
+
+}
+
+
+
+body{
+  margin-left:1px;
+  margin-right:0px;
+  font-family: Arial, "Helvetica Neue",
+  Helvetica, sans-serif;
+  font-size:20px;
+  line-height:1.6;
+
+
+}
+#showcase{
+  background-image:url('menu_background.jpg');
+  background-size:cover;
+  background-position:center;
+  color:white;
+  height:100vh;
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items:center;
+  text-align:center;
+  padding:0 20px;
+}
+
+#showcase h1{
+  font-size:50px;
+  line-height:1.2;
+}
+
+
+#showcase p{
+  font-size:20px;
+}
+
+#showcase .button{
+  font-size: 18px;
+  text-decoration:none;
+  color:#926239;
+  border:#926239 1px solid;
+  padding:10px 20px;
+  border-radius:10px;
+  margin-top: 20px;
+
+}
+
+#showcase .button2{
+  font-size: 18px;
+  text-decoration:none;
+  color:#926239;
+  border:#926239 1px solid;
+  padding:10px 20px;
+  border-radius:10px;
+  margin-top: 20px;
+
+}
+#showcase .button2{
+  font-size: 18px;
+  text-decoration:none;
+  color:#926239;
+  border:#926239 1px solid;
+  padding:10px 20px;
+  border-radius:10px;
+  margin-top: 20px;
+
+}
+#showcase .button2{
+  font-size: 18px;
+  text-decoration:none;
+  color:#926239;
+  border:#926239 1px solid;
+  padding:10px 20px;
+  border-radius:10px;
+  margin-top: 20px;
+
+}
+
+
+#showcase .button:hover{
+  background:#926239;
+  color:#fff;
+}
+
+#showcase .button2:hover{
+  background:#926239;
+  color:#fff;
+}
+
+
+
+#section-a{
+  padding:55px;
+  background:#fff;
+  color:#222831;
+  text-align:center;
+  font-size: 25px;
+}
+
+#section-b{
+  padding:20px;
+  background:#151965;
+  color:#fff;
+  text-align:center;
+  font-size: 20px;
+  height: 100px;
+
+}
+
+#section-c{
+  display:flex;
+}
+
+#section-c .img-sabina{
+  width:150px;
+  style="float";
+  margin-right: 10px;
+  margin-bottom: 50px;
+  border: solid black 1px;
+  padding: 2px;
+
+}
+
+#section-c .img-gaston{
+  width:150px;
+  style="float";
+  margin-right: 10px;
+  margin-bottom: 50px;
+  border: solid black 1px;
+  padding: 2px;
+}
+
+#section-c .img-megan{
+  width:150px;
+  style="float";
+  margin-right: 10px;
+  margin-bottom: 50px;
+  border: solid black 1px;
+  padding: 2px;
+}
+
+#section-c .img-bryar{
+  width:150px;
+  align:"left";
+  style="float: left;
+  margin-right: 10px;
+  margin-bottom: 50px;
+  border: solid black 1px;
+  padding: 2px;
+}
+
+
+#section-c.box-1, #section-c .box-3{
+  background:#fff;
+  color:#222831;
+
+#section-c.box-2{
+  background:#fff;
+  color:#222831;
+}
+
+
+/*------footer------*/
+footer{
+  width: 100%
+  color: #222;
+  padding:  60px 0px;
+  background-color: #222;
+}
